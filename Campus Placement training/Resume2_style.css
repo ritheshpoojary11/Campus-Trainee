@@ -1,0 +1,308 @@
+
+    .maindiv{
+       width: 1500px;
+      height: 900px;
+      background:#003147;
+    }
+    .mydiv{
+      width: 1500px;
+      height: 200px;
+      background:#003147;
+    }
+    .nxtdiv{
+       width: 1500px;
+      height: 1050px;
+      background:#003147;
+    }
+    .img1{
+   left:50px;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.name{
+    position: absolute;
+  left: 440px;
+  top: 70px;
+  color: white;
+}
+.em{
+    position: absolute;
+  left: 840px;
+  top: 40px;
+  color: white;
+}
+.ph{
+    position: absolute;
+  left: 840px;
+  top: 90px;
+  color: white;
+}
+.ph1{
+    position: absolute;
+  left: 840px;
+  top: 140px;
+  color: white;
+}
+.p1{
+    position: absolute;
+  left: 910px;
+  top: 40px;
+  color: white;
+}
+.p2{
+    position: absolute;
+  left: 910px;
+  top: 90px;
+  color: white;
+}
+.p3{
+    position: absolute;
+  left: 930px;
+  top: 140px;
+  color: white;
+}
+.pi{
+   color: white;
+     position: absolute;
+  left: 69px;
+  top: 210px;
+
+}
+.pi1{
+   color: white;
+     position: absolute;
+  left: 69px;
+  top: 360px;
+
+}
+.pi2{
+   color: white;
+     position: absolute;
+  left: 69px;
+  top: 480px;
+
+}
+.pi3{
+   color: white;
+     position: absolute;
+  left: 69px;
+  top: 620px;
+
+}
+.pi4{
+   color: white;
+     position: absolute;
+  left: 69px;
+  top: 750px;
+
+}
+.pi5{
+   color: white;
+     position: absolute;
+  left: 69px;
+  top: 910px;
+
+}
+.pi6{
+   color: white;
+     position: absolute;
+  left: 69px;
+  top: 1040px;
+
+}
+.pi7{
+   color: white;
+     position: absolute;
+  left: 69px;
+  top: 1170px;
+
+}
+.ad{
+   color: white;
+     position: absolute;
+  left: 290px;
+  top: 220px;
+
+}
+.ad1{
+   color: white;
+     position: absolute;
+  left: 290px;
+  top: 260px;
+
+}
+.ad2{
+   color: white;
+     position: absolute;
+  left: 290px;
+  top: 300px;
+
+}
+.pp1{
+   color: white;
+     position: absolute;
+  left: 430px;
+  top: 220px;
+
+}
+.pp2{
+   color: white;
+     position: absolute;
+  left: 430px;
+  top: 260px;
+
+}
+.pp3{
+   color: white;
+     position: absolute;
+  left: 430px;
+  top: 300px;
+
+}
+.lang{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 350px;
+}
+.lang1{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 470px;
+}
+.lang2{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 890px;
+}
+.lang3{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 1020px;
+}
+.obj{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 610px;
+}
+.dec{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 1180px;
+}
+.dur{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 750px;
+}
+.dur1{
+  color: white;
+     position: absolute;
+  left:530px;
+  top: 750px;
+}
+     .dur2{
+  color: white;
+     position: absolute;
+  left:760px;
+  top: 750px;
+}
+     .dur3{
+  color: white;
+     position: absolute;
+  left:1000px;
+  top: 750px;
+}
+   
+
+   .y1{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 780px;
+}
+.y2{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 820px;
+}
+.y3{
+  color: white;
+     position: absolute;
+  left:290px;
+  top: 860px;
+}  
+    .c1{
+  color: white;
+     position: absolute;
+  left:530px;
+  top: 780px;
+}
+.c2{
+  color: white;
+     position: absolute;
+  left:530px;
+  top: 820px;
+}
+.c3{
+  color: white;
+     position: absolute;
+  left:530px;
+  top: 860px;
+}
+     
+      .u1{
+  color: white;
+     position: absolute;
+  left:760px;
+  top: 780px;
+}
+ .u2{
+  color: white;
+     position: absolute;
+  left:760px;
+  top: 820px;
+}
+ .u3{
+  color: white;
+     position: absolute;
+  left:760px;
+  top: 860px;
+} 
+  .m1{
+  color: white;
+     position: absolute;
+  left:1030px;
+  top: 780px;
+}
+  .m2{
+  color: white;
+     position: absolute;
+  left:1030px;
+  top: 820px;
+}
+  .m3{
+  color: white;
+     position: absolute;
+  left:1030px;
+  top: 860px;
+}
+  </style>
